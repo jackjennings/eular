@@ -1,0 +1,50 @@
+0 what this is
+
+0.1 the_agreement
+0.2 nonexclusive
+0.3 agreement
+0.4 rights_of_use
+0.5 nondisclosure (toggle)
+
+1. definitions
+
+1.1 definition_of_font_software
+1.2 definition_of_user
+1.3 definition_of_designer
+1.4 definition_of_install (WYO)
+
+2. designer rights
+
+2.1 designer_owns_rights
+2.2 requirement_to_delete
+2.3 right_to_legal_action
+2.4 disclaimer
+2.5 role_of_ghostlines
+
+3. user rights
+
+3.1 limited_permissions
+3.2 public_use
+3.3 number_of_installs
+3.4 dont_share_it
+3.5 dont_modify_it
+3.6 user_backups (toggle)
+3.7 crediting_required (toggle)
+3.8 approved_media (WYO)
+3.9 group_licensing (WYO)
+
+4. termination / disputes
+
+4.1 termination
+4.2 user_breach
+4.3 ghostlines_update_termination
+4.4 jurisdiction
+4.5 governing_law
+
+5. misc
+
+5.1 unenforceable
+5.2 right_to_update_license
+5.3 custom_clause (WYO)
+
+finale

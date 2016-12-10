@@ -1,0 +1,85 @@
+Ghostlines EULA v0.4
+09 December 2016 by Lukas WinklerPrins
+
+	0. What This Is
+
+0.1 This End User License Agreement (the "Agreement," "EULA," "License," or "License Agreement") is a legal agreement that dictates the terms of use of the Font Software and the design of the fonts therein (the "Fonts," or "Product") released through the Ghostlines software and platform between you, the licensee (the "User," "End User," or "Licensee"), the designer (the "Foundry," or "Owner"), and Ghostlines. 
+
+0.2 This EULA is a non-exclusive, non-transferable license for the Font Software which can be revoked. 
+
+0.3 By downloading the Font Software you agree to this License Agreement and acknowledge that you understand and will comply to the terms stated herein. If you do not accept the terms, you may not download, request, or otherwise use the Fonts. 
+
+0.4 In agreeing to this License Agreement, you assume the rights to use the Font Software under a specific set of conditions, detailed in Section 3. 
+
+{{ nondisclosure }}
+
+1. Definitions
+
+1.1 The "Font Software" refers to any whole or partial representation of a font in analog or digital form. This includes the typeface as a whole, as well as individual glyphs. Included in this definition are visual representations of the font software as well as underlying code. 
+
+1.2 You, the "User," are a recipient of the Font Software through the Ghostlines platform and have been granted limited use rights over the Font Software. 
+
+1.3 The Designer is the individual or institution with full ownership and use rights over the Font Software. **
+
+{{ define one 'installation' }}
+
+	2. Rights of the Designer
+
+2.1 You (the "User") agree that the designer owns all rights, including (without limitation) intellectual property rights to the Fonts and all trademarks which may be used registered or unregistered in relation to the Fonts. 
+
+2.2 By request of the Designer you must delete all or some copies of the Font Software.
+
+2.3 The Designer reserves the right to take legal action against any infraction for damages, as well as terminate this use license under any circumstances without notice.
+
+2.4 DISCLAIMER: GHOSTLINES AND THE DESIGNER ASSUME NO RESPONSIBILITY FOR THE PERFORMANCE OF THE FONTS. THE FONT SOFTWARE IS PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL GHOSTLINES OR THE DESIGNER BE HELD LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR OUT OF USE OF THE FONT SOFTWARE. 
+
+2.5 Ghostlines acts solely as a platform between the User and Designer only and holds no rights to the Font Software or the use of the Font Software sent using its software. ***
+
+	3. Rights of the User
+
+3.1 You, the Licensee, are allowed to install and use the Font Software in contexts under and limited to your control. You agree to use the Font Software only for local, personal use and examination. **
+
+3.2 The Fonts are intended for feedback and testing use only, and {{ may/ not }} be used in public work, commercial or otherwise, up to the Designer's discretion.
+
+3.3 The User is allowed {{ number of installs }} installations of the Font Software, where each installation follows the terms set in clause 1.4 of this Agreement. 
+
+3.4 You may not share, distribute, or sell the Font Software as a whole or in parts. You may not package the Fonts with other software that is shared, distributed, or sold. 
+
+3.5 You may not to modify, rename, adapt, translate, reverse-engineer, alter, or produce direct derivative work of the Font Software. 
+
+{{ 3.6 You may keep additional, uninstalled copies of the Font Software exclusively for the purposes of backing up the files. Unauthorized use of these backup files through sharing or use terminates this license. }}
+
+{{ 3.7 In all cases of public use, the Designer must be visibly credited for the authorship of the Font Software.  }}
+
+{{ 3.8 Approved Media }}
+
+{{ 3.9 group licensing }}
+
+	4. Termination & Disputes
+
+4.1 This Agreement may be terminated by the Designer without notice at any time regardless of circumstance. 
+
+4.2 This Agreement terminates in the event that you or any non-authorized user breaches the use terms set forth. 
+
+4.3 This Agreement terminates upon update of the Font Software through the Ghostlines platform. **
+
+4.4 Any dispute regarding the terms of this agreement or its validity, performance, or interpretation shall be subject to the exclusive jurisdiction of the courts of {{ territory of jurisdiction }}
+
+4.5 This Agreement is governed by and shall be construed in accordance with the laws of {{ governing law }}
+
+	5. Miscellaneous
+
+5.1 If any part of this agreement is found void and unenforceable, it will not affect the validity of the balance of the agreement, which shall remain valid and enforceable according to its terms. 
+
+5.2 The Designer reserves the right to update this license at any time without notice. 
+
+{{ custom clause }}
+~
+
+Thank you for reading and complying to this agreement!
+For any inquiries, please get in contact:
+
+Ghostlines:
+info@ghostlines.pm
+
+(sections with double asterisks—**—indicate those that need development. If you have ideas, please email us!)
