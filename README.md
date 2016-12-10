@@ -12,4 +12,6 @@ The window allows you to toggle certain clauses, as well as write your own.
 
 The included EULA is a framework, and could use work. We can use your help to make it readable, mutable, and enforceable! Please email us if you have ideas. info@ghostlines.pm.
 
+(See some collected EULAs here: https://www.are.na/lukas-wp/eulas)
+
 -Lukas
